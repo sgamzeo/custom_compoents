@@ -1,7 +1,7 @@
 /// logging severity levels
 enum LogLevel { debug, info, warning, error }
 
-// state management statuses
+// state management status
 enum StateStatus { initial, loading, success, error }
 
 // error categories

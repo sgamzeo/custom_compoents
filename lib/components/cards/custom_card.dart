@@ -1,5 +1,5 @@
+import 'package:custom_components/constants/dimens.dart';
 import 'package:flutter/material.dart';
-import 'package:layout_widgets/core/constants/dimens.dart';
 
 class CustomCard extends StatelessWidget {
   final Widget? child;
